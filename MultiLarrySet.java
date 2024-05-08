@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-/*  Mia Walsh, mwalsh27, 119691915, CMSC132 - 0303 
+/*  Mia Walsh, CMSC132 - 0303 
  * I pledge on my honor that I have not given nor received any unauthorized 
  * assistance on this assignment. */
 
