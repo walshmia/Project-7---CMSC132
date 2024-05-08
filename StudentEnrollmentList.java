@@ -6,7 +6,7 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.HashSet;
 
-/*  Mia Walsh, mwalsh27, 119691915, CMSC132 - 0303 
+/*  Mia Walsh, CMSC132 - 0303 
  * I pledge on my honor that I have not given nor received any unauthorized 
  * assistance on this assignment. */
 
